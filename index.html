@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>드래곤 빌리지 컬렉션 DB</title>
+    <!-- CSS 파일 추가 -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1>드래곤 빌리지 컬렉션 DB</h1>
+    <!-- 검색 입력란 추가 -->
+    <label for="search">드래곤 검색: </label>
+    <input type="text" id="search" placeholder="드래곤 이름 검색" />
+
+    <!-- <button onclick="filterDragons()">검색</button> -->
+
+    <!-- 속성 필터링 -->
+    <label for="attribute-filter"> 속성 </label>
+    <select id="attribute-filter">
+      <option value="all">전체</option>
+      <option value="바람">바람</option>
+      <option value="불">불</option>
+      <option value="물">물</option>
+      <option value="땅">땅</option>
+      <option value="번개">번개</option>
+      <option value="바위">강철</option>
+      <option value="빛">빛</option>
+      <option value="어둠">어둠</option>
+      <option value="꿈">꿈</option>
+    </select>
+    <!-- 획득처 필터링 -->
+    <label for="acquisition-filter">획득처</label>
+    <select id="acquisition-filter">
+      <option value="all">전체</option>
+      <option value="무지개 동산">무지개 동산</option>
+      <option value="하늘의 신전">하늘의 신전</option>
+      <option value="불의 산">불의 산</option>
+      <option value="희망의 숲">희망의 숲</option>
+      <option value="난파선">난파선</option>
+      <option value="방랑상인">방랑상인</option>
+    </select>
+    <!-- 검색 버튼 -->
+    <button onclick="filterDragons()">검색</button>
+    <!-- 드래곤 정보를 표 형태로 표시할 테이블 추가 -->
+    <table id="dragons-table">
+      <thead>
+        <tr>
+          <th>사진</th>
+          <th>이름</th>
+          <th>속성</th>
+          <th>획득처</th>
+          <th>문구</th>
+          <th>특수 능력</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- 드래곤 정보가 동적으로 추가될 영역 -->
+      </tbody>
+    </table>
+    <!-- JavaScript 파일 추가 -->
+    <script src="db.js"></script>
+  </body>
+</html>

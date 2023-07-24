@@ -1,0 +1,138 @@
+[
+    {
+        "image": "dragonImage/acientDragon.png",
+        "name": "고대 신룡",
+        "attribute": "빛",    
+        "acquisition": "하늘의 신전",
+        "description": "이 알에는 노란 점들이 있다.",
+        "specialAbility": "없음"
+    },
+    {
+        "image": "dragonImage/darkDragon.png",
+        "name": "흑룡",
+        "attribute": "어둠",
+        "acquisition": "드래곤 50종 획득",
+        "description": "-",
+        "specialAbility": "없음"
+    },
+    {
+        "image": "dragonImage/afrit.png",
+        "name": "아프리트",
+        "attribute": "불, 꿈",
+        "acquisition": "무지개 동산",
+        "description": "이 알은 봉인되어 있다.",
+        "specialAbility": "없음"
+    },
+    {
+        "image": "dragonImage/fat.png",
+        "name": "패트",
+        "attribute": "강철, 꿈",
+        "acquisition": "무지개 동산",
+        "description": "이 알은 방패와 함께다.",
+        "specialAbility": "없음"
+    },
+    {
+        "image": "dragonImage/afrit.png",
+        "name": "에그 드래곤",
+        "attribute": "땅",
+        "acquisition": "무지개 동산",
+        "description": "이 알의 표면은 침이 묻어있다.",
+        "specialAbility": "없음"
+    },
+    {
+        "image": "dragonImage/afrit.png",
+        "name": "블루썬더",
+        "attribute": "바람, 번개",
+        "acquisition": "무지개 동산",
+        "description": "이 알의 주변으로 번개가 몰려온다.",
+        "specialAbility": "없음"
+    },
+    {
+        "image": "dragonImage/acientDragon.png",
+        "name": "발라",
+        "attribute": "빛",
+        "acquisition": "무지개 동산",
+        "description": "이 알을 감싼 나뭇가지는 부러질 수 있다.",
+        "specialAbility": "없음"
+    },
+    {
+        "image": "dragonImage/acientDragon.png",
+        "name": "에메랄드 드래곤",
+        "attribute": "땅, 빛",
+        "acquisition": "무지개 동산",
+        "description": "이 알은 약간 푸르고, 왕관이 달려있다.",
+        "specialAbility": "없음"
+    },
+    {
+        "image": "dragonImage/acientDragon.png",
+        "name": "스파이시",
+        "attribute": "빛",
+        "acquisition": "무지개 동산",
+        "description": "이 알은 빛에 닿고 싶어한다.",
+        "specialAbility": "없음"
+    },
+    {
+        "image": "dragonImage/acientDragon.png",
+        "name": "현무",
+        "attribute": "강철, 물",
+        "acquisition": "무지개 동산",
+        "description": "이 알은 음과 양의 기운이 모두 느껴진다.",
+        "specialAbility": "없음"
+    },
+    {
+        "image": "dragonImage/acientDragon.png",
+        "name": "파티 드래곤",
+        "attribute": "꿈",
+        "acquisition": "무지개 동산",
+        "description": "이 알은 커다란 리본에 감싸져 있다.",
+        "specialAbility": "없음"
+    },
+    {
+        "image": "dragonImage/acientDragon.png",
+        "name": "세에레",
+        "attribute": "꿈",
+        "acquisition": "무지개 동산",
+        "description": "이 알의 후드는 벗기지 않는 것이 좋다.",
+        "specialAbility": "없음"
+    },
+    {
+        "image": "dragonImage/acientDragon.png",
+        "name": "화이트 썬더",
+        "attribute": "번개",
+        "acquisition": "무지개 동산",
+        "description": "이 알은 번개의 뿔이 감싸고 있다.",
+        "specialAbility": "없음"
+    },
+    {
+        "image": "dragonImage/acientDragon.png",
+        "name": "삐에로 드래곤",
+        "attribute": "꿈",
+        "acquisition": "무지개 동산",
+        "description": "이 알은 웃음소리가 들려온다.",
+        "specialAbility": "없음"
+    },
+    {
+        "image": "dragonImage/acientDragon.png",
+        "name": "미트라",
+        "attribute": "빛",
+        "acquisition": "무지개 동산",
+        "description": "이 알은 사명을 가지고 있다.",
+        "specialAbility": "없음"
+    },    
+    {
+        "image": "dragonImage/acientDragon.png",
+        "name": "루네라",
+        "attribute": "어둠",
+        "acquisition": "무지개 동산",
+        "description": "이 알은 달 모양의 보석을 가지고 있다.",
+        "specialAbility": "없음"
+    },
+    {
+        "image": "dragonImage/acientDragon.png",
+        "name": "네뷸라",
+        "attribute": "꿈",
+        "acquisition": "무지개 동산",
+        "description": "이 알은 별의 기운을 담고 있다.",
+        "specialAbility": "없음"
+    }
+]

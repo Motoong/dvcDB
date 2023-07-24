@@ -1,0 +1,77 @@
+/* 스타일을 추가하여 드래곤 정보를 보기 좋게 꾸며줍니다. */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: #0080FF;
+}
+
+.dragon-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    width: 200px;
+}
+
+.dragon-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.dragon-card h2 {
+    margin: 5px 0;
+    color: #555;
+}
+
+.dragon-card p {
+    margin: 5px 0;
+    color: #777;
+}
+
+/* 표 스타일 */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: #0080FF;
+}
+
+#dragons-table {
+    border-collapse: collapse;
+    width: 90%;
+    margin: 20px auto;
+}
+
+#dragons-table th,
+#dragons-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+#dragons-table th {
+    background-color: #f2f2f2;
+}
+
+#dragons-table img {
+    width: 100px;
+    height: auto;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+/* 하이라이트 스타일 추가 */
+.highlight {
+    background-color: yellow;
+}
